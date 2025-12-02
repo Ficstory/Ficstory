@@ -5,7 +5,7 @@
 비전공자로 시작하여 6개월간 몰입도 높은 SW 교육 과정을 통해 알고리즘적 사고력과 웹 개발 역량을 길렀습니다.
 현재는 데이터를 다루는 백엔드 기술과 사용자 경험을 위한 프론트엔드 기술을 함께 익히며 성장하고 있습니다.
 
-- 🎓 **Education**: Samsung SW Academy For Youth (SSAFY) 11th (Python Track)
+- 🎓 **Education**: Samsung SW Academy For Youth (SSAFY) 14th (Python Track)
 - 🏆 **Achievement**: Samsung SW Competency Test **Grade A** (Python)
 - 🧩 **Problem Solving**: Solved **100+** Algorithm problems on SWEA/Baekjoon (DFS/BFS, Dijkstra, Implementation)
 - 💡 **Interests**: Backend Engineering, AI Model Serving, Data Analysis
