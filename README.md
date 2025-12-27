@@ -26,10 +26,6 @@
 #### 🤖 AI & Data Experience
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 
-#### 📝 Certifications (Preparing)
-- **SQLD** (SQL Developer) - *Waiting for results*
-- **ADsP** (Advanced Data Analytics Professional) - *Waiting for results*
-
 ---
 
 ### 🚀 Key Projects & Study
