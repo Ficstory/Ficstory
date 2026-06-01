@@ -50,7 +50,7 @@ Android/Jetpack Compose 기반 앱 구현과 TypeScript 기반 웹 프론트엔�
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Busan Eumgil</h3>
+      <h3><a href="https://github.com/Ficstory/eumgil">Busan Eumgil</a></h3>
       <p><strong>이동약자를 위한 무장애 길찾기 앱</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -80,8 +80,8 @@ Android/Jetpack Compose 기반 앱 구현과 TypeScript 기반 웹 프론트엔�
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ficstory/AI-Laugh-Detector-WebRTC">Smile Battle</a></h3>
-      <p><strong>실시간 화상 웃음참기 대결 서비스의 PM/검증 경험</strong></p>
+      <h3><a href="https://github.com/Ficstory/AI-Laugh-Detector-WebRTC">웃지마 게임</a></h3>
+      <p><strong>실시간 화상 웃음참기 게임의 PM/검증 경험</strong></p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC">
@@ -133,12 +133,3 @@ Android/Jetpack Compose 기반 앱 구현과 TypeScript 기반 웹 프론트엔�
   - [DocuMind](https://github.com/Ficstory/DocuMind): OCR, 문서 분류, 요약, 벡터 검색 기반 문서 관리 실습
 
 </details>
-
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ficstory&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ficstory&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
-
-</div>
