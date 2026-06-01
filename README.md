@@ -1,95 +1,144 @@
-# 이재호 | FE/Client Developer
+<div align="center">
 
-공공·생활 문제를 실제 사용 가능한 서비스 흐름으로 구현하는 FE/클라이언트 개발자입니다.
+![Lee Jaeho profile header](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:16A34A&height=190&section=header&text=Lee%20Jaeho&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=FE%20%2F%20Client%20Developer&descAlignY=58&descSize=18)
 
-Android/Jetpack Compose 기반 앱 구현과 TypeScript 기반 웹 프론트엔드를 중심으로, 화면 상태·API 계약·예외 흐름·접근성 UX를 연결하는 데 관심이 있습니다.
+### 공공·생활 문제를 실제 사용 가능한 클라이언트 흐름으로 구현합니다.
 
----
+Android/Jetpack Compose 기반 앱 구현과 TypeScript 기반 웹 프론트엔드를 중심으로<br>
+화면 상태, API 계약, 예외 흐름, 접근성 UX를 연결하는 개발자입니다.
 
-## Focus
+<br>
 
-- **Client Development**: Kotlin, Jetpack Compose, React, Next.js, TypeScript
-- **Product Flow**: onboarding, permission flow, dashboard, navigation, empty/error state
-- **API & State**: REST API integration, ViewModel state, screen contract, static content data
-- **UX Detail**: accessibility flow, user journey, QA polishing, design handoff
-- **Collaboration**: PM experience, requirements document, screen spec, feature prioritization
+<a href="https://portfolio-os-nine-rho.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+<a href="mailto:dlwo4367@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/Ficstory">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
----
-
-## Tech Stack
-
-### Client
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Backend / Data
-
-![Java](https://img.shields.io/badge/Java_17-437291?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</div>
 
 ---
 
-## Featured Projects
+## What I Build
 
-### [애낌 (AEKKIM)](https://github.com/Ficstory/aekkim)
-
-결제 내역과 앱 사용 이력을 바탕으로 구독 현황을 정리하고, 체크인·해지 가이드·추천 혜택으로 절감 행동까지 연결한 Android 구독 관리 서비스입니다.
-
-- **Role**: 팀장 겸 FE/Android 개발
-- **Stack**: Kotlin, Jetpack Compose, Hilt, Retrofit, Spring Boot, MySQL, Redis
-- **Contribution**: 온보딩, 권한/분석, 대시보드, 체크인, 해지 가이드, 알림 흐름 구현
-- **Result**: SSAFY 14기 부울경 특화프로젝트 우수 프로젝트 선정
-
-### 부산이음길
-
-부산의 지형과 이동약자의 실제 이동 제약을 반영해, 최단거리가 아니라 실제로 지나갈 수 있는 길을 안내하는 무장애 길찾기 앱입니다.
-
-- **Role**: FE/Android 개발
-- **Stack**: Kotlin, Jetpack Compose, Navigation Compose, Kakao Map SDK
-- **Contribution**: 사용자 유형별 온보딩, 접근성 지도, 검색/목적지 설정, 경로 안내, 장애물 제보 흐름 구현
-- **Focus**: 경로 geometry, segment, 빈 상태, 오류 상태, 긴 장소명, 인증/캐시 흐름 대응
-
-### [Portfolio OS](https://github.com/Ficstory/portfolio-os)
-
-잠금화면과 데스크톱 UI를 통해 About, Projects, Skills, Resume, Contact 콘텐츠를 탐색하는 FE 중심 정적 포트폴리오 사이트입니다.
-
-- **Stack**: Next.js, React, TypeScript, Tailwind CSS, Motion for React, Zustand
-- **Build**: static export 기반 배포 구조
-- **Demo**: https://portfolio-os-nine-rho.vercel.app
-
-### [Smile Battle](https://github.com/Ficstory/AI-Laugh-Detector-WebRTC)
-
-실시간 화상 웃음 참기 대결 서비스를 7인 팀에서 PM으로 리드하며, 사용자 설문과 피드백을 바탕으로 MVP 방향을 재정리한 프로젝트입니다.
-
-- **Role**: PM / Frontend contributor
-- **Stack**: TypeScript, WebRTC, OpenVidu, AI laugh detection
-- **Contribution**: 컨설턴트 피드백 정리, 설문 기반 MVP 피봇, 기능 우선순위 조정
+| Product Flow | Android UI State | API Contract | Accessibility UX |
+|---|---|---|---|
+| 문제를 사용자 여정과 화면 흐름으로 나눕니다. | Compose 화면을 상태, 이벤트, 예외 케이스 단위로 정리합니다. | 기획 문서와 API 응답을 실제 화면 정책에 맞춥니다. | 사용자의 판단 기준이 UI 흐름 안에서 보이도록 설계합니다. |
 
 ---
 
-## Learning Archive
+## Featured Work
 
-- [Algorithm-Archive](https://github.com/Ficstory/Algorithm-Archive): SSAFY 알고리즘 학습 및 Samsung SW Competency Test Grade A 준비 기록
-- [AI-Practice-Lab](https://github.com/Ficstory/AI-Practice-Lab): CNN, RAG, On-Device AI 실습 코드 아카이브
-- [Culture-Cast-Service](https://github.com/Ficstory/Culture-Cast-Service): Django 기반 공연 예술 커뮤니티 및 Kakao Map 연동 실습
-- [DocuMind](https://github.com/Ficstory/DocuMind): OCR, 문서 분류, 요약, 벡터 검색 기반 문서 관리 실습
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ficstory/aekkim">AEKKIM</a></h3>
+      <p><strong>구독 현황을 절감 행동으로 연결한 Android 앱</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+      </p>
+      <ul>
+        <li>팀장 겸 FE/Android 개발</li>
+        <li>온보딩, 권한/분석, 대시보드, 체크인, 해지 가이드, 알림 흐름 구현</li>
+        <li>SSAFY 14기 부울경 특화프로젝트 우수 프로젝트 선정</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Busan Eumgil</h3>
+      <p><strong>이동약자를 위한 무장애 길찾기 앱</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+        <img src="https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat-square&logo=kakao&logoColor=black" alt="Kakao Map">
+      </p>
+      <ul>
+        <li>사용자 유형별 온보딩, 접근성 지도, 검색, 경로 안내, 장애물 제보 흐름 구현</li>
+        <li>경로 geometry, segment, 빈 상태, 오류 상태, 긴 장소명 대응</li>
+        <li>최단거리보다 실제로 지나갈 수 있는 길을 설명하는 UX에 집중</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ficstory/portfolio-os">Portfolio OS</a></h3>
+      <p><strong>잠금화면과 데스크톱 UI 콘셉트의 정적 포트폴리오</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      </p>
+      <ul>
+        <li>About, Projects, Skills, Resume, Contact 탐색 경험 구성</li>
+        <li>Next.js static export 기반 배포</li>
+        <li><a href="https://portfolio-os-nine-rho.vercel.app">Live demo</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ficstory/AI-Laugh-Detector-WebRTC">Smile Battle</a></h3>
+      <p><strong>실시간 화상 웃음참기 대결 서비스의 PM/검증 경험</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC">
+        <img src="https://img.shields.io/badge/OpenVidu-6B46C1?style=flat-square" alt="OpenVidu">
+      </p>
+      <ul>
+        <li>7인 팀 PM으로 컨설턴트 피드백과 사용자 리스크 정리</li>
+        <li>168명 설문 결과를 바탕으로 MVP 방향 조정</li>
+        <li>얼굴 노출 부담, 매칭 방식, 서비스 검증 흐름을 기능 우선순위에 반영</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Contact
+## Tech I Use
 
-- **Email**: dlwo4367@gmail.com
-- **GitHub**: https://github.com/Ficstory
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+---
+
+## Current Direction
+
+- 화면을 만드는 것보다 **사용자가 다음에 무엇을 판단해야 하는지**를 먼저 정리합니다.
+- 요구사항정의서, 화면명세서, API 응답, QA 결과가 같은 기준을 보도록 맞춥니다.
+- Android/Compose 경험을 기반으로 FE/클라이언트 개발 역량을 확장하고 있습니다.
+
+---
+
+<details>
+  <summary><strong>Learning Archive</strong></summary>
+
+  <br>
+
+  - [Algorithm-Archive](https://github.com/Ficstory/Algorithm-Archive): SSAFY 알고리즘 학습 및 Samsung SW Competency Test Grade A 준비 기록
+  - [AI-Practice-Lab](https://github.com/Ficstory/AI-Practice-Lab): CNN, RAG, On-Device AI 실습 코드 아카이브
+  - [Culture-Cast-Service](https://github.com/Ficstory/Culture-Cast-Service): Django 기반 공연 예술 커뮤니티 및 Kakao Map 연동 실습
+  - [DocuMind](https://github.com/Ficstory/DocuMind): OCR, 문서 분류, 요약, 벡터 검색 기반 문서 관리 실습
+
+</details>
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ficstory&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ficstory&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
+
+</div>
