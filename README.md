@@ -80,7 +80,7 @@ Android/Jetpack Compose 기반 앱과 React·Vue 기반 웹 프론트엔드를 �
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Play-Pick/playpick">픽플레이 (PlayPick)</a></h3>
+      <h3><a href="https://github.com/Play-Pick/playpick">플레이픽 (PlayPick)</a></h3>
       <p><strong>취향에 맞는 공연 발견을 돕는 추천·커뮤니티 플랫폼</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3">
