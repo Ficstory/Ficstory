@@ -4,7 +4,7 @@
 
 ### 공공·생활 문제를 실제 사용 가능한 클라이언트 흐름으로 구현합니다.
 
-Android/Jetpack Compose 기반 앱 구현과 TypeScript 기반 웹 프론트엔드를 중심으로<br>
+Android/Jetpack Compose 기반 앱과 React·Vue 기반 웹 프론트엔드를 중심으로<br>
 화면 상태, API 계약, 예외 흐름, 접근성 UX를 연결하는 개발자입니다.
 
 <br>
@@ -36,7 +36,7 @@ Android/Jetpack Compose 기반 앱 구현과 TypeScript 기반 웹 프론트엔�
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ficstory/aekkim">AEKKIM</a></h3>
+      <h3><a href="https://github.com/Ficstory/aekkim">애낌 (AEKKIM)</a></h3>
       <p><strong>구독 현황을 절감 행동으로 연결한 Android 앱</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -50,7 +50,7 @@ Android/Jetpack Compose 기반 앱 구현과 TypeScript 기반 웹 프론트엔�
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ficstory/eumgil">Busan Eumgil</a></h3>
+      <h3><a href="https://github.com/busaneumgil/busaneumgil">부산이음길</a></h3>
       <p><strong>이동약자를 위한 무장애 길찾기 앱</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -66,21 +66,7 @@ Android/Jetpack Compose 기반 앱 구현과 TypeScript 기반 웹 프론트엔�
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ficstory/portfolio-os">Portfolio OS</a></h3>
-      <p><strong>잠금화면과 데스크톱 UI 콘셉트의 정적 포트폴리오</strong></p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      </p>
-      <ul>
-        <li>About, Projects, Skills, Resume, Contact 탐색 경험 구성</li>
-        <li>Next.js static export 기반 배포</li>
-        <li><a href="https://portfolio-os-nine-rho.vercel.app">Live demo</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ficstory/AI-Laugh-Detector-WebRTC">웃지마 게임</a></h3>
+      <h3><a href="https://github.com/Ficstory/AI-Laugh-Detector-WebRTC">웃지마게임</a></h3>
       <p><strong>실시간 화상 웃음참기 게임의 PM/검증 경험</strong></p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -91,6 +77,20 @@ Android/Jetpack Compose 기반 앱 구현과 TypeScript 기반 웹 프론트엔�
         <li>7인 팀 PM으로 컨설턴트 피드백과 사용자 리스크 정리</li>
         <li>168명 설문 결과를 바탕으로 MVP 방향 조정</li>
         <li>얼굴 노출 부담, 매칭 방식, 서비스 검증 흐름을 기능 우선순위에 반영</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Play-Pick/playpick">픽플레이 (PlayPick)</a></h3>
+      <p><strong>취향에 맞는 공연 발견을 돕는 추천·커뮤니티 플랫폼</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3">
+        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black" alt="Pinia">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+      </p>
+      <ul>
+        <li>2인 팀 팀장, 프론트엔드 화면 구현 및 UI/UX 디자인</li>
+        <li>커뮤니티, 온보딩, YouTube, 마이페이지 연동과 문서·발표 담당</li>
+        <li>KOPIS 공연 탐색에서 AI 검색·개인화 추천, 관람 기록으로 이어지는 사용자 흐름 구현</li>
       </ul>
     </td>
   </tr>
