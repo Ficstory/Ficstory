@@ -44,6 +44,11 @@ Android·웹 개발 경험을 바탕으로 화면과 API가 기획한 흐름대�
       <h3><a href="https://github.com/Ficstory/aekkim">애낌 (AEKKIM)</a></h3>
       <p><strong>구독 후보 확인을 요구사항에서 화면까지 연결</strong></p>
       <p>구독 관리 앱 · PM / 요구사항·화면명세 / Android</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+      </p>
       <ul>
         <li>구독 후보 확인·제외와 수동 등록 흐름을 명세와 화면에 반영</li>
         <li>중복 후보와 수동 확인 후 남은 결제 건수의 표시를 수정</li>
@@ -55,6 +60,11 @@ Android·웹 개발 경험을 바탕으로 화면과 API가 기획한 흐름대�
       <h3><a href="https://github.com/busaneumgil/busaneumgil">부산이음길</a></h3>
       <p><strong>이동 조건별 길안내의 명세와 구현 상태를 정리</strong></p>
       <p>이동약자 길안내 앱 · 기획 문서 갱신 / Android</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+        <img src="https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat-square&logo=kakao&logoColor=black" alt="Kakao Map">
+      </p>
       <ul>
         <li>제보 처리 상태와 사진 업로드 조건을 기획 문서에 반영</li>
         <li>글자 크기 설정과 승인된 제보의 지도 표시를 구현</li>
@@ -68,6 +78,11 @@ Android·웹 개발 경험을 바탕으로 화면과 API가 기획한 흐름대�
       <h3><a href="https://github.com/Ficstory/AI-Laugh-Detector-WebRTC">웃지마게임</a></h3>
       <p><strong>168건의 설문 응답으로 친구 초대방을 우선</strong></p>
       <p>실시간 화상 게임 · 7인 팀 PM / 설문·기능명세 / FE</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC">
+        <img src="https://img.shields.io/badge/OpenVidu-6B46C1?style=flat-square" alt="OpenVidu">
+      </p>
       <ul>
         <li>흥미·사용 의향·얼굴 노출 부담을 구분해 설문 설계·분석</li>
         <li>분석 결과를 팀 논의에 반영해 친구 초대 중심의 MVP 우선순위 정리</li>
@@ -79,6 +94,11 @@ Android·웹 개발 경험을 바탕으로 화면과 API가 기획한 흐름대�
       <h3><a href="https://github.com/Play-Pick/playpick">플레이픽 (PlayPick)</a></h3>
       <p><strong>첫 추천에 필요한 취향 입력과 저장 흐름을 구현</strong></p>
       <p>공연 추천 웹 서비스 · 2인 팀장 / 화면 설계 / FE</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3">
+        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black" alt="Pinia">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+      </p>
       <ul>
         <li>관심·비선호·중립 응답을 구분하고 온보딩 완료 조건을 화면에 반영</li>
         <li>응답 저장과 완료 요청을 처리한 뒤 추천 화면으로 연결</li>
@@ -88,6 +108,22 @@ Android·웹 개발 경험을 바탕으로 화면과 API가 기획한 흐름대�
     </td>
   </tr>
 </table>
+
+---
+
+## Tech I Use
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
 
 ---
 
