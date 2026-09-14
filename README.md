@@ -54,7 +54,10 @@ Android·웹 개발 경험을 바탕으로 화면과 API가 기획한 흐름대�
         <li>중복 후보와 수동 확인 후 남은 결제 건수의 표시를 수정</li>
         <li>요구사항·화면명세 갱신, Android MVP 구현 참여 · SSAFY 특화프로젝트 우수상(팀)</li>
       </ul>
-      <p><a href="https://ficstory.dev/pm/aekkim/">PM 사례 보기 →</a> · <a href="https://github.com/Ficstory/aekkim">저장소</a></p>
+      <p>
+        <a href="https://ficstory.dev/pm/aekkim/"><img src="https://img.shields.io/badge/PM%20%EC%82%AC%EB%A1%80%20%EB%B3%B4%EA%B8%B0-2563EB?style=for-the-badge" alt="PM 사례 보기" height="28"></a>&nbsp;
+        <a href="https://github.com/Ficstory/aekkim"><img src="https://img.shields.io/badge/GitHub%20%EC%A0%80%EC%9E%A5%EC%86%8C-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub 저장소" height="28"></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/busaneumgil/busaneumgil">부산이음길</a></h3>
@@ -70,7 +73,10 @@ Android·웹 개발 경험을 바탕으로 화면과 API가 기획한 흐름대�
         <li>글자 크기 설정과 승인된 제보의 지도 표시를 구현</li>
         <li>구현된 화면과 데이터·API의 추가 확인 항목을 요구사항명세서에 구분</li>
       </ul>
-      <p><a href="https://ficstory.dev/pm/busan-eumgil/">PM 사례 보기 →</a> · <a href="https://github.com/busaneumgil/busaneumgil">저장소</a></p>
+      <p>
+        <a href="https://ficstory.dev/pm/busan-eumgil/"><img src="https://img.shields.io/badge/PM%20%EC%82%AC%EB%A1%80%20%EB%B3%B4%EA%B8%B0-2563EB?style=for-the-badge" alt="PM 사례 보기" height="28"></a>&nbsp;
+        <a href="https://github.com/busaneumgil/busaneumgil"><img src="https://img.shields.io/badge/GitHub%20%EC%A0%80%EC%9E%A5%EC%86%8C-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub 저장소" height="28"></a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -88,7 +94,10 @@ Android·웹 개발 경험을 바탕으로 화면과 API가 기획한 흐름대�
         <li>분석 결과를 팀 논의에 반영해 친구 초대 중심의 MVP 우선순위 정리</li>
         <li>기획·기능명세 작성과 초대방 생성·입장·대기 화면 구현</li>
       </ul>
-      <p><a href="https://ficstory.dev/pm/smile-game/">PM 사례 보기 →</a> · <a href="https://github.com/Ficstory/AI-Laugh-Detector-WebRTC">저장소</a></p>
+      <p>
+        <a href="https://ficstory.dev/pm/smile-game/"><img src="https://img.shields.io/badge/PM%20%EC%82%AC%EB%A1%80%20%EB%B3%B4%EA%B8%B0-2563EB?style=for-the-badge" alt="PM 사례 보기" height="28"></a>&nbsp;
+        <a href="https://github.com/Ficstory/AI-Laugh-Detector-WebRTC"><img src="https://img.shields.io/badge/GitHub%20%EC%A0%80%EC%9E%A5%EC%86%8C-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub 저장소" height="28"></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Play-Pick/playpick">플레이픽 (PlayPick)</a></h3>
@@ -104,7 +113,10 @@ Android·웹 개발 경험을 바탕으로 화면과 API가 기획한 흐름대�
         <li>응답 저장과 완료 요청을 처리한 뒤 추천 화면으로 연결</li>
         <li>온보딩·마이페이지 API 연동, 화면 설계와 문서·발표 담당</li>
       </ul>
-      <p><a href="https://ficstory.dev/pm/play-pick/">PM 사례 보기 →</a> · <a href="https://github.com/Play-Pick/playpick">저장소</a></p>
+      <p>
+        <a href="https://ficstory.dev/pm/play-pick/"><img src="https://img.shields.io/badge/PM%20%EC%82%AC%EB%A1%80%20%EB%B3%B4%EA%B8%B0-2563EB?style=for-the-badge" alt="PM 사례 보기" height="28"></a>&nbsp;
+        <a href="https://github.com/Play-Pick/playpick"><img src="https://img.shields.io/badge/GitHub%20%EC%A0%80%EC%9E%A5%EC%86%8C-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub 저장소" height="28"></a>
+      </p>
     </td>
   </tr>
 </table>
